@@ -26,7 +26,6 @@ npm run dev
 ```
 npm run test
 ```
-
 Further, read the documentation on the app, 
 
 ### Documentation
@@ -38,7 +37,6 @@ Further, read the documentation on the app,
 - NodeJS / Typescript
 - Postgres / Sequelize
 
-## Usage
 
 ## Contributing
 [Frank Harerimana](https://github.com/frankhn)
