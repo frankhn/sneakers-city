@@ -33,6 +33,22 @@ Further, read the documentation on the app,
   GET /api/v1/swagger
 ```
 
+### With Docker
+
+If you have docker installed on you machine you have the app running with just minimal configuration
+
+```
+npm run docker
+```
+The above command will get you up and running on a docker container
+You should see a message in your terminal like thiso one
+
+```Server is listening on port http://localhost:8000/api/v1/swagger ...```
+
+Navigate to this URL for more information on how to run the app
+
+**NOTE** : Make sure you set your .env variables as specified in the .env.example file
+
 ### Technologies
 - NodeJS / Typescript
 - Postgres / Sequelize
